@@ -1,4 +1,4 @@
-## Hi there 👋
+## こんにちは 👋
 
 <!--
 **Microturbine/Microturbine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌐 Languages: Fluent in English and Japanese, currently learning English.
+- ⚒️ Tools I use: VSCode, GitHub, ChatGPT.
+- 🎓 Education: I'm a university student now.
